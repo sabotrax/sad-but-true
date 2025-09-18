@@ -1,8 +1,8 @@
 # Sad but true
 
-### Das Durcheinander des Saarbahn-Fahrplans - einfach dargestellt
+Das Durcheinander des Saarbahn-Fahrplans - einfach dargestellt
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./images/screenshot.jpg)
 
 Ein einfaches Marimo-Notebook, das die Abfahrtszeiten der Saarbahn (plus Verspätung hrhr) anzeigt.
 
